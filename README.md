@@ -30,3 +30,8 @@ Codes for my homework project *DeepFake Detection*.
 - ```Experiment Report.pdf``` is the experiment report of my homework.
 
 - ```Poster.pdf``` is a poster for my project.
+
+The principle of my method is described in these two papers:
+
+- Durall, R., Keuper, M., & Keuper, J. (2020). Watch your up-convolution: CNN based generative deep neural networks are failing to reproduce spectral distributions. In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition* (pp. 7890-7899).
+- Durall, R., Keuper, M., Pfreundt, F. J., & Keuper, J. (2019). Unmasking DeepFakes with simple features. *arXiv preprint arXiv:1911.00686*.
